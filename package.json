@@ -9,7 +9,7 @@
     "concurrently": "^8.0.1",
     "cross-env": "^7.0.3",
     "electron": "^24.1.2",
-    "electron-builder": "^23.6.0",
+    "electron-builder": "^24.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
