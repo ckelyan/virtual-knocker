@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-knocker/static/css/main.0b5c6d7b.css",
+    "main.js": "/virtual-knocker/static/js/main.117389c7.js",
+    "index.html": "/virtual-knocker/index.html",
+    "main.0b5c6d7b.css.map": "/virtual-knocker/static/css/main.0b5c6d7b.css.map",
+    "main.117389c7.js.map": "/virtual-knocker/static/js/main.117389c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5c6d7b.css",
+    "static/js/main.117389c7.js"
+  ]
+}
